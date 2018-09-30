@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/hajimehoshi/go-mp3/internal/consts"
+	"github.com/ssor/go-mp3/consts"
 )
 
 // A mepg1FrameHeader is MPEG1 Layer 1-3 frame header
